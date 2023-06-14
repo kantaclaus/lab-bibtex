@@ -16,7 +16,7 @@
     - [1.2.12 ICMLなど（PMLR）](#1212-icmlなどpmlr)
     - [1.2.13 ICLRなど（openreview）](#1213-iclrなどopenreview)
 
-# 1. 論文執筆用 BiBTeX エントリ
+# 1. 論文執筆用 BiBTeX エントリ 論文怖くなってきました……
 
 研究室での論文執筆において共通で必要となりそうな bibtex エントリです．
 
